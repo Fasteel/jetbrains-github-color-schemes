@@ -1,10 +1,10 @@
 <scheme name="Github (by Fasteel)" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-01-04T16:00:23</property>
+    <property name="created">2019-01-07T09:36:24</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.2.0.0</property>
-    <property name="modified">2019-01-04T16:00:31</property>
+    <property name="modified">2019-01-07T09:37:20</property>
     <property name="originalScheme">Github (by Fasteel)</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Hack" />
