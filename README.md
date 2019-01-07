@@ -1,6 +1,6 @@
 # Github color scheme
-This is a color scheme for matching github color scheme in all jetbrains product. It's available for phpstorm, intellij and so much more. 
+This is a color scheme for matching github color scheme in all jetbrains product. It's available for phpstorm, intellij and so much more. If you want to contribute, do it :). If you have any trouble with any langage, contact me.
 
-## Install
-1. copy the .icls file locally
-2. import this file in your settings
+## Installing
+1. Copy the .icls file locally
+2. Import this file in your settings
