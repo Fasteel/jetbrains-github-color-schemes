@@ -3,4 +3,4 @@ This is a color scheme for matching github color scheme in all jetbrains product
 
 ## Install
 1. copy the .icls file locally
-2. import this file en settings
+2. import this file in your settings
