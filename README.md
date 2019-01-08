@@ -6,5 +6,5 @@ This is a color scheme for matching github color scheme in all jetbrains product
 2. Import this file in your settings
 
 ## Exemples
-![alt text](https://github.com/Fasteel/jetbrains-github-color-schemes/blob/master/images/1.png)
 ![alt text](https://github.com/Fasteel/jetbrains-github-color-schemes/blob/master/images/2.png)
+![alt text](https://github.com/Fasteel/jetbrains-github-color-schemes/blob/master/images/1.png)
