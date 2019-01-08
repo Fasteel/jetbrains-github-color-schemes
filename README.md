@@ -5,5 +5,5 @@ This is a color scheme for matching github color scheme in all jetbrains product
 1. Copy the .icls file locally
 2. Import this file in your settings
 
-## Exemples
+## Exemple
 ![alt text](https://github.com/Fasteel/jetbrains-github-color-schemes/blob/master/images/2.png)
