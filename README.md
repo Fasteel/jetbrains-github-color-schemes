@@ -1,4 +1,5 @@
-# Github color scheme (Deprecated use https://plugins.jetbrains.com/plugin/8006-material-theme-ui instead)
+# Github color scheme 
+#### (Deprecated use https://plugins.jetbrains.com/plugin/8006-material-theme-ui instead)
 This is a new color scheme for matching github color scheme (2019) in all jetbrains products. It's available for phpstorm, intellij and many more. If you want to contribute, do it :). If you have any trouble with any language, contact me.
 
 ## Installing
